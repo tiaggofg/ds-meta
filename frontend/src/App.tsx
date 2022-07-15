@@ -1,6 +1,6 @@
-import NotificationButton from "./components/NotificationButton"
-import Header from "./components/header"
-import SaleCard from "./components/SaleCard"
+import NotificationButton from "./components/NotificationButton";
+import Header from "./components/header";
+import SaleCard from "./components/SaleCard";
 
 function App() {
   return (
@@ -17,4 +17,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
